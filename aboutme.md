@@ -1,7 +1,11 @@
 ---
 layout: page
-title: About me
+title: About Plato's Dice
 subtitle: Why you'd want to go on a date with me
+---
+
+## This is Plato's Dice.
+
 ---
 
 My name is Inigo Montoya. I have the following qualities:
