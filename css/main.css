@@ -272,6 +272,9 @@ footer {
   {% endif %}
 }
 
+
+.love{color:red}.footer a{text-decoration:none;margin:0;color:#fff}
+
 footer p.text-muted {
   color: {{ site.footer-text-col }};
 }
