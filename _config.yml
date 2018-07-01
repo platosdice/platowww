@@ -25,9 +25,9 @@ test: this is test var.
 
 # List of links in the navigation bar
 navbar-links:
-  Game play: "gameplay"  Rules: "rules"
-  Educational use: 'education'
-  Kickstarter: kickstarter
+  Game play: "gameplay"
+  Educational use: "education"
+  Kickstarter: "kickstarter"
   About: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
