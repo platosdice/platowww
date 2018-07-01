@@ -25,7 +25,12 @@ test: this is test var.
 
 # List of links in the navigation bar
 navbar-links:
+  Game sheet: "game"
+  Kickstarter: "kickstarter"
+  Rules: "rules"
+  Educational Use: 'education'
   About Me: "aboutme"
+  Contact: "contact"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
