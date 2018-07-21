@@ -2,7 +2,6 @@
 layout: page
 title: About
 subtitle: About Plato's Dice
-bigimg: /img/path.jpg
 ---
 
 ## This is Plato's Dice.
