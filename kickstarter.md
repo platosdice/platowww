@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Kickstarter
-subtitle: Why you'd want to go on a date with me
+subtitle: Kickstarter Project
 ---
 
 ## This is Plato's Dice.

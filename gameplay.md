@@ -1,7 +1,7 @@
 ---
 layout: page
 title: gameplay
-subtitle: Why you'd want to go on a date with me
+subtitle: How to play the game
 ---
 
 ## This is Plato's Dice. gameplay

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About 
-subtitle: Why you'd want to go on a date with me
+title: About
+subtitle: About Plato's Dice
 ---
 
 ## This is Plato's Dice.
