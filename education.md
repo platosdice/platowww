@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education
-subtitle: Why you'd want to go on a date with me
+subtitle: Using Plato's Dice in Education
 ---
 
 ## This is Plato's Dice.
