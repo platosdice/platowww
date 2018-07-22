@@ -2,6 +2,7 @@
 layout: page
 title: About
 subtitle: About Plato's Dice
+comments: true
 ---
 
 ## This is Plato's Dice.
