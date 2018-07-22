@@ -9,7 +9,7 @@ subtitle: How to play the game
 ---
 
 
-#Best Way to Learn Plato’s Dice Game
+# Best Way to Learn Plato’s Dice Game
 
 - Just search Google or YouTube for “How to play Plato’s Dice Game” to find the 2 minute YouTube Video.
 - Full instructions and strategies at: http://platosdice.com
