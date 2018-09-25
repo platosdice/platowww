@@ -26,9 +26,7 @@
       <p class="copyright text-muted">
       {{ site.author.name }} {{ site.test }}
       &nbsp;&bull;&nbsp;
-      {{ site.time | date: '%Y' }}
-
-      {% if site.url-pretty %}
+      &copy; {{ site.time | date: '%Y' }} R. McCormack, P. Eng.
       &nbsp;&bull;&nbsp;
       <a href="{{ site.url }}">{{ site.url-pretty }}</a>
       {% endif %}
@@ -43,7 +41,7 @@
           <!-- Please don't remove this, keep my open source work credited :) -->
 
     <p class="copyright text-muted">
-      Build with Jekyll and <span class="love copyright">❤</span> by <a href="#">{{site.author.name}}</a>
+      Build with Jekyll with <span class="love copyright">❤</span> and hosted on <a href="http://github.com">GitHub.com</a>
     </p>
       </div>
     </div>
