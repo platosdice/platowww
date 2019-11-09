@@ -3,12 +3,12 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://platosdice.github.io/platowww"
+# If you are building a simple GitHub user page (https://username.github.io) then use these settings:
+url: "https://platosdice.github.io/platowww"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
+#url: "https://username.github.io/projectname"
 #baseurl: "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
@@ -18,7 +18,7 @@ title: Plato's Dice Game
 navtitle: Plato's Dice
 
 # Short description of your site
-description: The portable game of skill, luck, and guts. Ancient technologies rediscovered.
+description: The portable game of skill, luck, and guts. Ancient technologies reimagined.
 
 test: this is test var.
 
