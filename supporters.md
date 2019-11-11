@@ -1,13 +1,19 @@
 ---
 layout: page
-title: About
-subtitle: About Plato's Dice
+title: Supporters
+subtitle: Supporters of Plato's Dice
 comments: false
 ---
 
-## This is Plato's Dice.
+## Thanks you for supporting Plato's Dice
 
 ---
+
+## Individuals
+
+
+## Schools / Colleges / Universities etc.
+
 
 > This is a test page
 

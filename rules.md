@@ -4,7 +4,7 @@ title: gameplay
 subtitle: How to play the game
 ---
 
-## This is Plato's Dice. gameplay
+## Rules of the Game
 
 ---
 
