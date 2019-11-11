@@ -9,25 +9,10 @@ comments: false
 
 ---
 
-## Boxes
-You can add notification, warning and error boxes like this:
 
-### Notification
+This is about page.
 
-{: .box-note}
-**Note:** This is a notification box.
 
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-### License
 
      <br>
       <hr>
