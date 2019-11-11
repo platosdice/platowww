@@ -1,6 +1,6 @@
 ---
 layout: page
-title: gameplay
+title: Rules
 subtitle: How to play the game
 ---
 
