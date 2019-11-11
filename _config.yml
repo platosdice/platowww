@@ -77,9 +77,9 @@ author:
 social-network-links:
   rss: true
   email: "platosdice@gmail.com"
-  facebook: daattali
-  github: daattali
-  twitter: daattali
+  facebook: platosdice
+  #github: daattali
+  twitter: platosdice
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -87,7 +87,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
 #  instagram: deanat78
-#  youtube: user/deanat78
+  youtube: user/platosdice
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
