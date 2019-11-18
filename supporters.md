@@ -9,6 +9,8 @@ comments: false
 
 ---
 
+![](images/crowdlego.jpg)
+
 ## Individuals
 
 
