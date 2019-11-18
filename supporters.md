@@ -1,38 +1,26 @@
 ---
 layout: page
 title: Supporters
-subtitle: Supporters of Plato's Dice
+# subtitle: Supporters of Plato's Dice
 comments: false
 ---
 
-## Thanks you for supporting Plato's Dice
+Thank for supporting Plato's Dice and its creative commons licensing.
 
 ---
 
-![](images/crowdlego.jpg)
+![](https://platosdice.com/img/crowdlego.jpg)
 
-## Individuals
-
-
-## Schools / Colleges / Universities etc.
-
-
-> This is a test page
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
+### Individuals
 
 {: .box-note}
-**Note:** This is a notification box.
+**Individuals:**
 
-### Warning
+1. Rob McCormack
+1. James McCormack
 
-{: .box-warning}
-**Warning:** This is a warning box.
+{: .box-note}
+**Schools / Colleges / University**
 
-### Error
+1. Harvard University
 
-{: .box-error}
-**Error:** This is an error box.
