@@ -2,25 +2,23 @@
 layout: page
 title: Supporters
 # subtitle: Supporters of Plato's Dice
+bigimg: /img/crowdlego.jpg.jpg
 comments: false
 ---
 
-Thank for supporting Plato's Dice and its creative commons licensing.
+Thank for supporting Plato's Dice and its Creative Commons Licensing.
 
 ---
 
-![](https://platosdice.com/img/crowdlego.jpg)
-
-### Individuals
 
 {: .box-note}
 **Individuals:**
 
-1. Rob McCormack
-1. James McCormack
+- Rob McCormack
+- James McCormack
 
 {: .box-note}
 **Schools / Colleges / University**
 
-1. Harvard University
+- Harvard University
 
