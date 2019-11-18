@@ -12,7 +12,7 @@ Thank for supporting Plato's Dice and its Creative Commons Licensing.
 
 
 {: .box-note}
-**Individuals:**
+**Individuals**
 
 - Rob McCormack
 - James McCormack
