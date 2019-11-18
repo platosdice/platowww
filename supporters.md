@@ -2,7 +2,7 @@
 layout: page
 title: Supporters
 # subtitle: Supporters of Plato's Dice
-bigimg: /img/crowdlego.jpg
+bigimg: /img/greeksoldiers.jpg
 comments: false
 ---
 
