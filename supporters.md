@@ -6,7 +6,7 @@ bigimg: /img/greeksoldiers.jpg
 comments: false
 ---
 
-Thank for supporting Plato's Dice and its Creative Commons Licensing.
+Thanks for supporting Plato's Dice and its Creative Commons Licensing.
 
 ---
 
