@@ -2,7 +2,7 @@
 layout: page
 title: Education
 subtitle: Using Plato's Dice in Education
-comments: true
+comments: false
 ---
 
 ## Educational Use
