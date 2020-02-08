@@ -8,6 +8,8 @@ comments: false
 
 Thanks for supporting Plato's Dice and its Creative Commons Licensing.
 
+All Kickstarter supporters will be added here.
+
 ---
 
 

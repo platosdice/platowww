@@ -10,6 +10,10 @@ comments: false
 ---
 
 
+Plato's Dice Game was invented by Rob McCormack, P. Eng.
+
+
+
 
 ## Copyright owner:
 
