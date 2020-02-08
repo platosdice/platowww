@@ -5,26 +5,15 @@ subtitle: Using Plato's Dice in Education
 comments: true
 ---
 
-## This is Plato's Dice.
+## Educational Use
 
 ---
 
-> This is a test page
+> Plato's Dice may be used in Education under CC Licensing
+> This includes Game Sheets and Rules
 
-## Boxes
-You can add notification, warning and error boxes like this:
+This work is licensed under a Creative Commons (CC) Attribution-NonCommercial 4.0 International License.
 
-### Notification
+[http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/)
 
-{: .box-note}
-**Note:** This is a notification box.
 
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
