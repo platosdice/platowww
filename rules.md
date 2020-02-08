@@ -20,7 +20,5 @@ subtitle: How to play the game
 ## Detail Game Rules:
 
 
-Detail Game Rules
-
-https://docs.google.com/document/d/1NgvnpAPq7T3Ga8hBNmSomSfm77fS1gVmh1ZZZtCvk0g/edit?usp=sharing
+<a href="https://docs.google.com/document/d/1NgvnpAPq7T3Ga8hBNmSomSfm77fS1gVmh1ZZZtCvk0g/edit?usp=sharing"> View Detail Rules </a>
 
