@@ -29,6 +29,7 @@ test: this is test var.
 navbar-links:
   Home: "index.html"
   Rules: "rules"
+  Gamesheets: "gamesheets"
   Educational use: "education"
   Kickstarter: "kickstarter"
   Supporters: "supporters"
