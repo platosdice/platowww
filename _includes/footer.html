@@ -4,54 +4,63 @@
       <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
         <ul class="list-inline text-center footer-links">
           {%- for link in site.social-network-links -%}
-            {%- assign curkey = link[0] -%}
-            {%- assign element = site.data.SocialNetworks[curkey] -%}
-            <li>
+          {%- assign curkey = link[0] -%}
+          {%- assign element = site.data.SocialNetworks[curkey] -%}
+          <li>
             {%- if curkey == 'rss' -%}
-              <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="{{ element.name }}">
-            {%- elsif curkey == 'yelp' -%}
+            <a href="{{ '/feed.xml' | prepend: site.baseurl }}" title="{{ element.name }}">
+              {%- elsif curkey == 'yelp' -%}
               <a href="https://{{ site.social-network-links[curkey] }}.yelp.com" title="{{ element.name }}">
-            {%- else -%}
-              <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}">
-            {%- endif -%}
-                <span class="fa-stack fa-lg" aria-hidden="true">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
-                </span>
-                <span class="sr-only">{{ element.name }}</span>
-              </a>
-            </li>
+                {%- else -%}
+                <a href="{{element.baseURL}}{{ site.social-network-links[curkey] }}" title="{{ element.name }}">
+                  {%- endif -%}
+                  <span class="fa-stack fa-lg" aria-hidden="true">
+                    <i class="fa fa-circle fa-stack-2x"></i>
+                    <i class="fa {{ element.icon }} fa-stack-1x fa-inverse"></i>
+                  </span>
+                  <span class="sr-only">{{ element.name }}</span>
+                </a>
+          </li>
           {%- endfor -%}
         </ul>
-      <p class="copyright text-muted">
-      {{ site.author.name }}
-      &nbsp;&bull;&nbsp;&nbsp;&copy;&nbsp;
-      {{ site.time | date: '%Y' }}
+        <p class="copyright text-muted">
+          {{ site.author.name }}
+          &nbsp;&bull;&nbsp;&nbsp;&copy;&nbsp;
+          {{ site.time | date: '%Y' }}
 
-      {% if site.url-pretty %}
-      &nbsp;&bull;&nbsp;
-      <a href="{{ site.url }}">{{ site.url-pretty }}</a>
-      {% endif %}
-
-      {% if site.matomo %}
-        {% if site.matomo.opt-out %}
+          {% if site.url-pretty %}
           &nbsp;&bull;&nbsp;
-          <a href="https://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank" class="text_muted">Do-not-Track</a>
-        {% endif %}
-      {% endif%}
-      </p>
-          <!-- Please don't remove this, keep my open source work credited :) -->
+          <a href="{{ site.url }}">{{ site.url-pretty }}</a>
+          {% endif %}
 
-    <div class="copyright text-muted">
-      Build with Jekyll and <span class="love copyright">❤</span> on Github.com
-      <br>
-      by Rob McCormack, P. Eng.
-      <br>
-      <br>
-      <br>
-      <a href="https://statuspage.freshping.io/18465-PlatosDiceGame" target="_blank"><img src="https://statuspage.freshping.io/badge/474f3d54-544c-4869-b3f9-6df07bd2ba46?0.13061761021375573"/> </a>
+          {% if site.matomo %}
+          {% if site.matomo.opt-out %}
+          &nbsp;&bull;&nbsp;
+          <a href="https://{{- site.matomo.uri -}}/index.php?module=CoreAdminHome&action=optOut" target="_blank"
+            class="text_muted">Do-not-Track</a>
+          {% endif %}
+          {% endif%}
+        </p>
+        <!-- Please don't remove this, keep my open source work credited :) -->
 
-    </div>
+        <div class="copyright text-muted">
+          Build with Jekyll and <span class="love copyright">❤</span> on Github.com
+          <br>
+          by Rob McCormack, P. Eng.
+          <br>
+          <br>
+          <br>
+          <hr>
+          This work is licensed under a
+          <a href="http://creativecommons.org/licenses/by-nc/4.0/](http://creativecommons.org/licenses/by-nc/4.0/">Creative
+            Commons (CC) Attribution-NonCommercial 4.0 International License</a>.
+          <br>
+          <a href="https://statuspage.freshping.io/18465-PlatosDiceGame" target="_blank"><img
+              src="https://statuspage.freshping.io/badge/474f3d54-544c-4869-b3f9-6df07bd2ba46?0.13061761021375573" /></a>
+
+
+
+        </div>
       </div>
     </div>
   </div>
